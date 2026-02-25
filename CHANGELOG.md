@@ -2,6 +2,10 @@
 
 All notable changes to `laravel-mix-preload` will be documented in this file.
 
+## 1.5.0 - 2026-02-25
+
+Add Laravel 13.x compatibility
+
 ## 1.4.0 - 2024-02-29
 
 ### What's Changed
